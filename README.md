@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @psudhir977
+- 👋 Hi, I’m Sudhir Padhy
 - 👀 I’m interested in micro services,springboot,docker,Kubernetes,reddis,react
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me on +60 173396851
 
 <!---
 psudhir977/psudhir977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
